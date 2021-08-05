@@ -1,5 +1,5 @@
 ### Hi there 👋
-![https://user-images.githubusercontent.com/81378921/128432816-d73077f9-8614-4520-afa3-1f22a3985df8.gif]()
+![portofolio](https://user-images.githubusercontent.com/81378921/128432816-d73077f9-8614-4520-afa3-1f22a3985df8.gif)
 
 
 
