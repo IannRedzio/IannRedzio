@@ -1,4 +1,7 @@
 ### Hi there 👋
+![https://user-images.githubusercontent.com/81378921/128432816-d73077f9-8614-4520-afa3-1f22a3985df8.gif]()
+
+
 
 <!--
 **IannRedzio/IannRedzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
