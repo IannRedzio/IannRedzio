@@ -1,6 +1,9 @@
 ### Hi, I´m Ian 👋
 ![portofolio](https://user-images.githubusercontent.com/81378921/128432816-d73077f9-8614-4520-afa3-1f22a3985df8.gif)
 
+You can find me 🔍:
+- [LinkedIn](https://www.linkedin.com/in/ian-redzio/) 
+
 
 
 <!--
