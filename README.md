@@ -6,6 +6,7 @@
 
 ## You can find me 🔍:
 - [LinkedIn](https://www.linkedin.com/in/ian-redzio/) 💼
+- [Email](ianredzio13@gmail.com)
 
 
 
