@@ -3,7 +3,7 @@
 
 ## Skills:
 
-<h1 align="center"> I currently work with </h1>
+<h1> I currently work with: </h1>
 <p>React • Redux • JavaScript • Typescript • Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
 
 <div diplay="flex">
