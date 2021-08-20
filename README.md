@@ -6,9 +6,8 @@
 ## Sobre mi
 <p>Desde pequeño, siempre me interesó la programación. Durante la escuela secundaria hice unos cursos de HTML y CSS super basicos y ahi es donde desperté mi curiosidad hacia el desarrollo web. En Mayo de 2021, logré entrar al bootcamp <a href="https://www.soyhenry.com/">SoyHenry</a> donde desarrollé y mastericé habilidades tecnicas para un desarrollo web funcional, responsivo y adaptable. Actualmente soy desarrollador Full Stack en búsqueda de desarrollar mi experiencia y mi carrera profesional, con el fin de crecer en el ámbito tecnológico, generando soluciones y buscando nuevos desafíos. </p>
  
-## Skills:
+## Actualmente manejo:
 
-<h1> Actualmente manejo: </h1>
 <p>React • Redux • JavaScript • Typescript • Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
 
 <div diplay="flex">
