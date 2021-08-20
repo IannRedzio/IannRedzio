@@ -1,10 +1,14 @@
-### Hi, I´m Ian 👋
+### Hola, soy Ian! 👋
 <p align="center">
  <img height=300px src="https://user-images.githubusercontent.com/81378921/128432816-d73077f9-8614-4520-afa3-1f22a3985df8.gif" alt="banner" />
-</p
+</p>
+
+## Sobre mi
+<p>Desde pequeño, siempre me interesó la programación. Durante la escuela secundaria hice unos cursos de HTML y CSS super basicos y ahi es donde desperté mi curiosidad hacia el desarrollo web. En Mayo de 2021, logré entrar al bootcamp <a href="https://www.soyhenry.com/">SoyHenry</a> donde desarrollé y mastericé habilidades tecnicas para un desarrollo web funcional, responsivo y adaptable. Actualmente soy desarrollador Full Stack en búsqueda de desarrollar mi experiencia y mi carrera profesional, con el fin de crecer en el ámbito tecnológico, generando soluciones y buscando nuevos desafíos. </p>
+ 
 ## Skills:
 
-<h1> I currently work with: </h1>
+<h1> Actualmente manejo: </h1>
 <p>React • Redux • JavaScript • Typescript • Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
 
 <div diplay="flex">
@@ -24,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IannRedzio)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## You can find me 🔍:
+## Puedes encontrarme en 🔍:
 - [LinkedIn](https://www.linkedin.com/in/ian-redzio/) 💼
 
 
