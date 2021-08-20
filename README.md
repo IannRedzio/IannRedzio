@@ -1,6 +1,7 @@
 ### Hi, I´m Ian 👋
+<p align="center">
 ![portofolio](https://user-images.githubusercontent.com/81378921/128432816-d73077f9-8614-4520-afa3-1f22a3985df8.gif)
-
+</p
 ## Skills:
 
 <h1> I currently work with: </h1>
