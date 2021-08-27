@@ -35,7 +35,7 @@
 <h5 align="center"> React.js • Redux • CSS • PostreSQL • Sequelize • Express • NodeJs</h5>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82492849/129451749-c66aaf77-c1ec-4e24-9f7c-78ccc89a8807.gif" alt="project preview" />
+  <img src="https://github.com/IannRedzio/IannRedzio/issues/2#issue-981321704" alt="project preview" />
 </p>
 
 
