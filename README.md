@@ -30,6 +30,13 @@
 ## Puedes encontrarme en 🔍:
 - [LinkedIn](https://www.linkedin.com/in/ian-redzio/) 💼
 
+##  Mis Projectos :
+<h2 align="center"><a href="https://github.com/IannRedzio/PI-VideogamesFT14a"> Henry Videogames </a></h2>
+<h5 align="center"> React.js • Redux • CSS • PostreSQL • Sequelize • Express • NodeJs</h5>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82492849/129451749-c66aaf77-c1ec-4e24-9f7c-78ccc89a8807.gif" alt="project preview" />
+</p>
 
 
 <!--
