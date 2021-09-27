@@ -29,6 +29,7 @@
 
 ## Puedes encontrarme en 🔍:
 - [LinkedIn](https://www.linkedin.com/in/ian-redzio/) 💼
+- [Portfolio](https://ianredzio-portfolio.vercel.app/) ⚙
 
 ##  Mis Projectos :
 <h2 align="center"><a href="https://github.com/IannRedzio/PI-Videogames-FT14a"> Henry Videogames </a></h2>
