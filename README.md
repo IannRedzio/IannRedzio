@@ -4,7 +4,7 @@
 </p>
 
 ## Sobre mi
-<p>Desde pequeño, siempre me interesó la programación. Durante la escuela secundaria hice unos cursos de HTML y CSS super basicos y ahi es donde desperté mi curiosidad hacia el desarrollo web. En Mayo de 2021, logré entrar al bootcamp <a href="https://www.soyhenry.com/">SoyHenry</a> donde desarrollé y mastericé habilidades tecnicas para un desarrollo web funcional, responsivo y adaptable. Actualmente soy desarrollador Full Stack en búsqueda de desarrollar mi experiencia y mi carrera profesional, con el fin de crecer en el ámbito tecnológico, generando soluciones y buscando nuevos desafíos. </p>
+<p> Desarrollador Full Stack con experiencia en el diseño, desarrollo y optimización de soluciones tecnológicas escalables. Mi enfoque se centra en la creación de aplicaciones robustas con arquitecturas eficientes, aplicando principios de clean code y las mejores prácticas de la industria. Con habilidades tanto en frontend como en backend, domino tecnologías modernas como React, Node.js y AWS, permitiéndome abordar desafíos con una visión integral. Busco formar parte de equipos innovadores que prioricen la excelencia técnica y el crecimiento profesional. </p>
  
 ## Actualmente manejo:
 
