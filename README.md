@@ -4,11 +4,11 @@
 </p>
 
 ## Sobre mi
-<p> Desarrollador Full Stack con experiencia en el diseño, desarrollo y optimización de soluciones tecnológicas escalables. Mi enfoque se centra en la creación de aplicaciones robustas con arquitecturas eficientes, aplicando principios de clean code y las mejores prácticas de la industria. Con habilidades tanto en frontend como en backend, domino tecnologías modernas como React, Node.js y AWS, permitiéndome abordar desafíos con una visión integral. Busco formar parte de equipos innovadores que prioricen la excelencia técnica y el crecimiento profesional. </p>
+<p> Ingeniero de software con más de 4 años de experiencia desarrollando aplicaciones web y plataformas fintech de alta disponibilidad. Especializado en Node.js, React, TypeScript y AWS, con experiencia en microservicios, arquitecturas orientadas a eventos, procesamiento asíncrono, integraciones de pago y sistemas distribuidos. Acostumbrado a trabajar sobre productos en producción, participando en el diseño, desarrollo, monitoreo y mejora continua de soluciones escalables.  </p>
  
 ## Actualmente manejo:
 
-<p>React • Redux • JavaScript • Typescript • Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
+<p>React • Redux • JavaScript • Typescript • AWS • PostreSQL • Express • NodeJS • Sequelize • NextJs </p>
 
 <div diplay="flex">
 <img width="8%" alt="React" src="https://user-images.githubusercontent.com/82492849/127186826-fa23931b-dca7-46db-b33d-4caf6afd984c.png">
